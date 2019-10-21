@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>406869353783-jqc1fppp4lumdkso10dpavgmm11dp6dn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.406869353783-jqc1fppp4lumdkso10dpavgmm11dp6dn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoL__go03h8ArAe51QoeEMS9j_hHWnY7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>406869353783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pk.AppA</string>
+	<key>PROJECT_ID</key>
+	<string>ille-8a4da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ille-8a4da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:406869353783:ios:5bc7024338a1e3d45ea6b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://ille-8a4da.firebaseio.com</string>
+</dict>
+</plist>
